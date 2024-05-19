@@ -1,0 +1,15 @@
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net8.0\LinqTasks.exe
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net8.0\LinqTasks.deps.json
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net8.0\LinqTasks.runtimeconfig.json
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net8.0\LinqTasks.dll
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net8.0\LinqTasks.pdb
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.AssemblyInfoInputs.cache
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.AssemblyInfo.cs
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.sourcelink.json
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.dll
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\refint\LinqTasks.dll
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.pdb
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.genruntimeconfig.cache
+C:\Users\Michał\Desktop\zad8\Zad8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\ref\LinqTasks.dll
